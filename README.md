@@ -1,4 +1,4 @@
-## Bem vindo ✌️!
+## Bem vindo!
 Américo Godoy, 25
 
 - 🧑‍💻 Graduando em Desenvolvimento de Software Multiplataforma 3/6 - Fatec Jahu
