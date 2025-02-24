@@ -1,7 +1,7 @@
 ## Bem vindo!
 Américo Godoy, 25
 
-- 🧑‍💻 Graduando em Desenvolvimento de Software Multiplataforma 4/6 - Fatec Jahu
+- 🧑‍💻 Graduando em Desenvolvimento de Software Multiplataforma [4/6] - Fatec Jahu
 - 📖 Estudando JavaScript, Node.Js, TypeScript e React
 
 <div> 
