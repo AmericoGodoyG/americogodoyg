@@ -1,7 +1,6 @@
 ## Bem vindo!
-Américo Godoy, 25
 
-- 🧑‍💻 Graduando em Desenvolvimento de Software Multiplataforma [5/6] - Fatec Jahu
+- 🧑‍💻 Desenvolvimento de Software Multiplataforma [5/6] - Fatec Jahu
 
 <div> 
   <a href="https://www.linkedin.com/in/americo-godoy-silva/" target="_blank">
